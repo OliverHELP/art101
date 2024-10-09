@@ -7,3 +7,26 @@
     border: solid 1px #888;
     background-color: #ffffff;
   }
+
+h1{
+    color:turquoise;
+    font-size: 100px;
+
+
+}
+
+#content{
+
+background-color: blueviolet;
+width: 1000px;
+min-height: 200px;
+padding: 10px;
+margin: 5px;
+border: solid 1px #682309;
+font-size: 30px;
+}
+
+p{
+color: yellow;
+
+}
