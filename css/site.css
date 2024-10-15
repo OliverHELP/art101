@@ -34,3 +34,20 @@ h1 {
   border: solid 1px #888;
   background-color: #A3C9A8;
 }
+
+
+.selfie {
+  margin: 10px;
+  max-width: 500px;
+}
+
+.links{
+
+color: aquamarine;
+
+}
+
+.intro{
+
+  text-align: right;
+}
