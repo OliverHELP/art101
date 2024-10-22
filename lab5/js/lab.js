@@ -1,6 +1,6 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Beginner Javascript Variables
+// Author: Oliver Winkler
+// Date: 10/21/2024
 
 // Constants
 
@@ -19,3 +19,24 @@ function main() {
 
 // let's get this party started
 main();
+
+
+// Define Variables
+
+let make = "Toyota";
+let model = "Tacoma";
+let color = "Silver";
+let year = 2015;
+let ownIt = true;
+//calculate
+age = 2024 - year;
+
+
+
+//output
+
+document.writeln("Make: " + make + "<br>")
+document.writeln("Model: " + model + "<br>")
+document.writeln("Color: " + color + "<br>")
+document.writeln("Year: " + year + "<br>")
+document.writeln("Age: " + age + "<br>")
